@@ -6,7 +6,7 @@
         vue_nuxt_ci_cd
       </h1>
       <h2 class="subtitle">
-        Nuxt.js projectss
+        Nuxt.js project
       </h2>
       <div class="links">
         <a
